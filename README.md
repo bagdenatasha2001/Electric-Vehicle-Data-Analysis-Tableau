@@ -47,3 +47,32 @@ The project consists of three key dashboards:
 
 <img src="https://github.com/bagdenatasha2001/Electric-Vehicle-Data-Analysis-Tableau/blob/main/Dashboard_Images/Dashboard_2.png" width="1200" height="500"> &nbsp;
 
+
+##  key Insights :
+
+- EV adoption is increasing – The number of electric vehicles has grown significantly in recent years.
+
+- Tesla dominates the market – Tesla has the highest number of EVs, followed by Nissan, Chevrolet, Ford, and BMW.
+
+- Seattle has the most charging stations – Other top cities include Bellevue, Redmond, and Vancouver.
+
+- Charging stations are growing steadily – The number of stations has increased over the years, but some regions still lack infrastructure.
+
+- BEV charging stations are more common – Most stations cater to Battery Electric Vehicles (BEV) compared to Plug-in Hybrid Electric Vehicles (PHEV).
+
+- EV adoption vs charging ratio is unbalanced – Some areas have a high number of EVs but lack sufficient charging stations.
+
+
+## conclusion :
+
+- EV adoption is rapidly increasing, with Tesla leading the market.
+
+-  Charging stations are expanding, but some regions still lack sufficient infrastructure.
+
+-  eattle has the highest number of charging stations, indicating strong infrastructure support.
+
+- BEV charging stations are more common than PHEV stations, showing a shift toward fully electric vehicles.
+
+- The EV-to-charging station ratio highlights the need for further infrastructure investment.
+
+- Expanding EV infrastructure is crucial for supporting sustainable transportation growth. 
