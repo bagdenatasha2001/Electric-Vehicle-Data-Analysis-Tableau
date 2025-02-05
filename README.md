@@ -38,3 +38,12 @@ The project consists of three key dashboards:
     efficiency.
 
 * Geospatial Analysis – Visualize the geographic distribution of EVs and charging stations using maps.
+
+
+## project  Overview :
+<img src=" " width="1200" height="500"> &nbsp;
+
+<img src="" width="1200" height="500"> &nbsp;
+
+<img src="" width="1200" height="500"> &nbsp;
+
