@@ -41,9 +41,9 @@ The project consists of three key dashboards:
 
 
 ## project  Overview :
-<img src=" " width="1200" height="500"> &nbsp;
+<img src="https://github.com/bagdenatasha2001/Electric-Vehicle-Data-Analysis-Tableau/blob/main/Dashboard_Images/Landing%20_Page.png" width="1200" height="500"> &nbsp;
 
-<img src="" width="1200" height="500"> &nbsp;
+<img src="https://github.com/bagdenatasha2001/Electric-Vehicle-Data-Analysis-Tableau/blob/main/Dashboard_Images/Dashboard_1.png" width="1200" height="500"> &nbsp;
 
-<img src="" width="1200" height="500"> &nbsp;
+<img src="https://github.com/bagdenatasha2001/Electric-Vehicle-Data-Analysis-Tableau/blob/main/Dashboard_Images/Dashboard_2.png" width="1200" height="500"> &nbsp;
 
